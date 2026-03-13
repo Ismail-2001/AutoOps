@@ -12,15 +12,15 @@
   <p>
     <strong>A decentralized, event-driven agentic LLM architecture orchestrating end-to-end DevOps automation, SRE, and infrastructure cost optimization at an enterprise scale.</strong>
   </p>
-
-  <p>
-    [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-    [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-    [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
-    [![Architecture: LangGraph](https://img.shields.io/badge/LangGraph-AI_Orchestration-purple.svg)](https://langchain-ai.github.io/langgraph/)
-    [![Multi-Agent: CrewAI](https://img.shields.io/badge/CrewAI-Multi_Agent-orange.svg)](https://www.crewai.com/)
-    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
   </p>
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+  [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
+  [![Architecture: LangGraph](https://img.shields.io/badge/LangGraph-AI_Orchestration-purple.svg)](https://langchain-ai.github.io/langgraph/)
+  [![Multi-Agent: CrewAI](https://img.shields.io/badge/CrewAI-Multi_Agent-orange.svg)](https://www.crewai.com/)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 </div>
 
 ---
